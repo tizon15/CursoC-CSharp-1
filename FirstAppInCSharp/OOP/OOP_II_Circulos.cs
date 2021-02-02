@@ -8,7 +8,7 @@ namespace FirstAppInCSharp
      * Esta clase tiene relación al video 28 del curso
      * Programación orientada a objetos. Creación de clases e instancias
      */
-    class POO_II_Circulos
+    class OOP_II_Circulos
     {
         // Propiedad de la clase círculo.
         // Campos de clase.
