@@ -1,13 +1,13 @@
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\obj\Debug\netcoreapp3.1\FirstAppInCSharp.AssemblyInfoInputs.cache
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\obj\Debug\netcoreapp3.1\FirstAppInCSharp.AssemblyInfo.cs
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\obj\Debug\netcoreapp3.1\FirstAppInCSharp.csproj.CoreCompileInputs.cache
 C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\bin\Debug\netcoreapp3.1\FirstAppInCSharp.exe
 C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\bin\Debug\netcoreapp3.1\FirstAppInCSharp.deps.json
 C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\bin\Debug\netcoreapp3.1\FirstAppInCSharp.runtimeconfig.json
 C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\bin\Debug\netcoreapp3.1\FirstAppInCSharp.runtimeconfig.dev.json
 C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\bin\Debug\netcoreapp3.1\FirstAppInCSharp.dll
 C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\bin\Debug\netcoreapp3.1\FirstAppInCSharp.pdb
-C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\obj\Debug\netcoreapp3.1\FirstAppInCSharp.csprojAssemblyReference.cache
-C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\obj\Debug\netcoreapp3.1\FirstAppInCSharp.AssemblyInfoInputs.cache
-C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\obj\Debug\netcoreapp3.1\FirstAppInCSharp.AssemblyInfo.cs
-C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\obj\Debug\netcoreapp3.1\FirstAppInCSharp.csproj.CoreCompileInputs.cache
 C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\obj\Debug\netcoreapp3.1\FirstAppInCSharp.dll
 C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\obj\Debug\netcoreapp3.1\FirstAppInCSharp.pdb
 C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\obj\Debug\netcoreapp3.1\FirstAppInCSharp.genruntimeconfig.cache
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\FirstAppInCSharp\obj\Debug\netcoreapp3.1\FirstAppInCSharp.csprojAssemblyReference.cache
