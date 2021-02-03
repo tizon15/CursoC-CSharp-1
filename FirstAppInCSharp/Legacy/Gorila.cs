@@ -9,5 +9,9 @@ namespace FirstAppInCSharp.Legacy
         {
             Console.WriteLine("Soy capaz de trepar");
         }
+        public override void pensar()
+        {
+            Console.WriteLine("Pensamiento instintivo avanzado");
+        }
     }
 }

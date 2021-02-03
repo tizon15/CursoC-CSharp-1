@@ -13,6 +13,10 @@ namespace FirstAppInCSharp.Legacy
         {
             Console.WriteLine("Soy capaz de respirar");
         }
+        public virtual void pensar()
+        {
+            Console.WriteLine("pensamiento básico instintivo");
+        }
         public void cuidarCrias()
         {
             Console.WriteLine("Cuido de mis crias hasta que se valgan por si solas");

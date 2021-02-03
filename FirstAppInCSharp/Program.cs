@@ -51,8 +51,19 @@ namespace FirstAppInCSharp
             animal = Yegua;
             animal.getNombre();
 
-            
+            Mamiferos[] almacenAnimales = new Mamiferos[3];
+            almacenAnimales[0] = Rocinante;
+            almacenAnimales[1] = Juan;
+            almacenAnimales[2] = Terk;
+            Console.WriteLine("-------------------------------------------------------");
+            almacenAnimales[1].getNombre();
 
+
+            Console.WriteLine("-------------------------------------------------------");
+            for(int i = 0; i<3;i++)
+            {
+                almacenAnimales[i].pensar();
+            }
         }
     }
 
