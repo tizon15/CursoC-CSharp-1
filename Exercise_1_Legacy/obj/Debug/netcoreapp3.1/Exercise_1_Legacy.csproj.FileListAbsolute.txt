@@ -1,0 +1,13 @@
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\bin\Debug\netcoreapp3.1\Exercise_1_Legacy.exe
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\bin\Debug\netcoreapp3.1\Exercise_1_Legacy.deps.json
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\bin\Debug\netcoreapp3.1\Exercise_1_Legacy.runtimeconfig.json
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\bin\Debug\netcoreapp3.1\Exercise_1_Legacy.runtimeconfig.dev.json
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\bin\Debug\netcoreapp3.1\Exercise_1_Legacy.dll
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\bin\Debug\netcoreapp3.1\Exercise_1_Legacy.pdb
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\obj\Debug\netcoreapp3.1\Exercise_1_Legacy.csprojAssemblyReference.cache
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\obj\Debug\netcoreapp3.1\Exercise_1_Legacy.AssemblyInfoInputs.cache
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\obj\Debug\netcoreapp3.1\Exercise_1_Legacy.AssemblyInfo.cs
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\obj\Debug\netcoreapp3.1\Exercise_1_Legacy.csproj.CoreCompileInputs.cache
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\obj\Debug\netcoreapp3.1\Exercise_1_Legacy.dll
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\obj\Debug\netcoreapp3.1\Exercise_1_Legacy.pdb
+C:\DEV\CURSOS\C#\tizon15\CursoC-CSharp-1\Exercise_1_Legacy\obj\Debug\netcoreapp3.1\Exercise_1_Legacy.genruntimeconfig.cache
